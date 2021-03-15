@@ -1,0 +1,12 @@
+{
+  "name": "validator-test.public.dappnode.eth",
+  "version": "0.1.20",
+  "description": "Helium Validator Testnet",
+  "type": "service",
+  "author": "gradoj",
+  "categories": ["Developer tools"],
+  "links": {
+    "homepage": "https://your-project-homepage-or-docs.io"
+  },
+  "license": "GLP-3.0"
+}
